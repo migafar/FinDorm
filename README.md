@@ -1,5 +1,5 @@
 #  FinDorm
-   ![FinDorm ](Images/Logo.png)
+   ![FinDorm logo ](images/logo.png)
 **Tələbələr üçün ağıllı ev/kirayə axtarış platforması.**
 
 FinDorm tələbənin büdcəsinə uyğun və universitetinə ən yaxın evləri tapır, sıralayır və gündəlik yolun necə olacağını köçməzdən əvvəl göstərir.
