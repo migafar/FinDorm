@@ -1,5 +1,5 @@
 #  FinDorm
-
+   ![FinDorm ](Images/Logo.png)
 **Tələbələr üçün ağıllı ev/kirayə axtarış platforması.**
 
 FinDorm tələbənin büdcəsinə uyğun və universitetinə ən yaxın evləri tapır, sıralayır və gündəlik yolun necə olacağını köçməzdən əvvəl göstərir.
@@ -21,13 +21,13 @@ FinDorm bu addımları avtomatlaşdırır:
 
 ```
 Gəlir məlumatı + Universitet
-          ↓
+          
   Ev elanları (data)
-          ↓
+          
   Büdcəyə görə filtr
-          ↓
+          
   Yaxınlığa görə sıralama
-          ↓
+          
   Marşrut + gediş vaxtı
 ```
 
@@ -36,7 +36,7 @@ Gəlir məlumatı + Universitet
 -  Gəlirə əsaslanan büdcə hesablaması
 -  Universitetə yaxınlığa görə sıralama
 -  Hər ev üçün təxmini marşrut
-- ⏱ Gündəlik gediş vaxtı proqnozu
+-  Gündəlik gediş vaxtı proqnozu
 
 ## Hədəf auditoriya
 
@@ -54,4 +54,4 @@ Gəlir məlumatı + Universitet
 
 ## Status
 
-🚧 İdeya / inkişaf mərhələsindədir.
+İdeya / inkişaf mərhələsindədir.
