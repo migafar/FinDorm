@@ -1,5 +1,5 @@
 #  FinDorm
-   ![FinDorm logo ](Images/Logo.jpg)
+   <img src="Images/Logo.jpg" alt="FinDorm logo" width="150">
 **Tələbələr üçün ağıllı ev/kirayə axtarış platforması.**
 
 FinDorm tələbənin büdcəsinə uyğun və universitetinə ən yaxın evləri tapır, sıralayır və gündəlik yolun necə olacağını köçməzdən əvvəl göstərir.
